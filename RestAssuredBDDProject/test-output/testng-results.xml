@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2321" started-at="2020-03-18T05:57:16Z" finished-at="2020-03-18T05:57:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2321" started-at="2020-03-18T05:57:16Z" finished-at="2020-03-18T05:57:18Z">
+      <class name="restassuredTests.Demo2_POST_Request">
+        <test-method status="PASS" signature="postdata()[pri:0, instance:restassuredTests.Demo2_POST_Request@3bfdc050]" name="postdata" is-config="true" duration-ms="436" started-at="2020-03-18T05:57:16Z" finished-at="2020-03-18T05:57:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postdata -->
+        <test-method status="PASS" signature="testpost()[pri:0, instance:restassuredTests.Demo2_POST_Request@3bfdc050]" name="testpost" duration-ms="1862" started-at="2020-03-18T05:57:16Z" finished-at="2020-03-18T05:57:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpost -->
+      </class> <!-- restassuredTests.Demo2_POST_Request -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
